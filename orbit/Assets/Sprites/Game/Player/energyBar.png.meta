@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 66ff7c017febd8645a17376812e99a7c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: energyBar_0
+    21300002: energyBar_1
+    21300004: energyBar_2
+    21300006: energyBar_3
+    21300008: energyBar_4
+    21300010: energyBar_5
+    21300012: energyBar_6
+    21300014: energyBar_7
+    21300016: energyBar_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 6, y: 6, z: 6, w: 6}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: energyBar_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 36
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 18
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 18
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energyBar_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 194
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

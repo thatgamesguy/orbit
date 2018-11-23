@@ -1,0 +1,12 @@
+//Asset Folder
+Audio/Effects
+
+
+//Single
+collectible
+enemy_death
+enemy_hit
+pause_pressed
+player_hit
+player_shoot
+upgrade

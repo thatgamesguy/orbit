@@ -1,0 +1,10 @@
+//Asset Folder
+Audio/BGM
+
+//Group
+//group_name, clip_path_1, clip_path_2, ...
+game_music, BGM1, BGM2, BGM3
+
+//Single
+GameOver
+Title
